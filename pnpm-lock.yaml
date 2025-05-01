@@ -52,7 +52,7 @@ importers:
         specifier: ^15.15.0
         version: 15.15.0
       vite:
-        specifier: ^6.3.3
+        specifier: ^6.3.4
         version: 6.3.4
 
 packages:
