@@ -12,8 +12,8 @@
   "dependencies": {
     "bulma": "^1.0.4",
     "canvas-confetti": "^1.9.4",
-    "react": "^19.2.1",
-    "react-dom": "^19.2.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
     "sanitize-html": "^2.17.0"
   },
   "devDependencies": {
