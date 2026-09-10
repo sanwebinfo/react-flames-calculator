@@ -21,7 +21,7 @@ importers:
         specifier: ^19.2.7
         version: 19.2.7(react@19.2.7)
       sanitize-html:
-        specifier: ^2.17.6
+        specifier: ^2.17.7
         version: 2.17.7
     devDependencies:
       '@eslint/js':
